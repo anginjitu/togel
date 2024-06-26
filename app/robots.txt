@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: https://togel--angintogel.us-central1.hosted.app/sitemap.xml

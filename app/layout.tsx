@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "id_ID",
-    url: "https://www.anginjitu.asia",
+    url: "togel--angintogel.us-central1.hosted.app",
   },
   twitter: {
     card: "summary_large_image",
