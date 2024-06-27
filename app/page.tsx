@@ -1,4 +1,10 @@
+import { Metadata } from "next";
 import Image from "next/image";
+
+export const metadata: Metadata = {
+  title: "Home",
+};
+
 
 export default function Home() {
   return (
@@ -8,7 +14,7 @@ export default function Home() {
           ANGINTOGEL by
           <a
             className="ml-1 underline"
-            href="togel--angintogel.us-central1.hosted.app"
+            href="https://anginjitu.asia"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -18,19 +24,19 @@ export default function Home() {
         <div className="fixed bottom-0 left-0 flex h-48 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:size-auto lg:bg-none">
           <a
             className="pointer-events-none flex place-items-center gap-2 p-8 lg:pointer-events-auto lg:p-0"
-            href="togel--angintogel.us-central1.hosted.app"
+            href="https://anginjitu.asia"
             target="_blank"
             rel="noopener noreferrer"
           >
-            By{" "}
+            By ANGINTOGEL
+            {/* By{" "}
             <Image
               src="/logo.svg"
               alt="angintogel Logo"
               className="dark:invert"
-              width={100}
-              height={24}
-              priority
-            />
+              width={125}
+              height={276}
+            /> */}
           </a>
         </div>
       </div>
@@ -40,9 +46,8 @@ export default function Home() {
           className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert"
           src="/logo.svg"
           alt="angintogel Logo"
-          width={180}
-          height={37}
-          priority
+          width={935}
+          height={224}
         />
       </div>
 
@@ -97,48 +102,81 @@ export default function Home() {
             Hubungi kami untuk bantuan&nbsp;!
           </p>
         </a>
-
-        <p className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30">
-          Berikut adalah beberapa keuntungan bermain di website AnginTogel:
-
-          <h3>1. Keamanan dan Privasi Terjamin</h3>
-          <p>AnginTogel memastikan setiap data pribadi dan transaksi pemain terjaga dengan aman. Dengan sistem keamanan terbaik, Anda tidak perlu khawatir tentang kebocoran data atau penipuan. AnginTogel menggunakan enkripsi canggih untuk melindungi semua informasi pengguna.</p>
-
-          <h3>2. Bonus dan Promosi Menarik</h3>
-          <p>Di AnginTogel, Anda bisa menikmati berbagai bonus dan promosi menarik yang bisa meningkatkan peluang kemenangan Anda. Mulai dari bonus deposit, cashback, hingga promo harian yang selalu diperbarui. Jangan lewatkan kesempatan untuk mendapatkan keuntungan lebih dari setiap permainan Anda.</p>
-
-          <h3>3. Transaksi Cepat dan Mudah</h3>
-          <p>AnginTogel menyediakan berbagai metode transaksi yang cepat dan mudah, baik untuk deposit maupun penarikan. Anda bisa menggunakan transfer bank, e-wallet, dan metode lainnya yang sesuai dengan kebutuhan Anda. Proses transaksi yang cepat membuat pengalaman bermain Anda semakin nyaman.</p>
-
-          <h3>4. Layanan Pelanggan 24/7</h3>
-          <p>Tim layanan pelanggan AnginTogel siap membantu Anda kapan saja. Dengan layanan 24 jam sehari, 7 hari seminggu, Anda bisa mendapatkan bantuan atau informasi yang Anda butuhkan dengan cepat. Hubungi kami melalui live chat atau kontak lainnya yang tersedia di website.</p>
-
-          <h3>5. Permainan Beragam dan Fair Play</h3>
-          <p>AnginTogel menawarkan berbagai jenis permainan togel yang bisa Anda pilih sesuai dengan keinginan. Semua permainan dijamin fair play, sehingga Anda bisa bermain dengan tenang dan fokus pada strategi kemenangan Anda.</p>
-
-          <h3>6. Akses Mudah dari Berbagai Perangkat</h3>
-          <p>Anda bisa mengakses AnginTogel dari berbagai perangkat, baik komputer, tablet, maupun smartphone. Website ini didesain responsif sehingga Anda bisa bermain dengan nyaman di mana saja dan kapan saja.</p>
-
-          Untuk informasi lebih lanjut dan menikmati semua keuntungan tersebut, kunjungi beberapa link berikut:
-          <ul>
-            <li><a href="https://1.anginjitu.asia" target="_blank" rel="noopener noreferrer" style={{ color: 'blue' }}>🌐 AnginJitu 1</a></li>
-            <li><a href="https://2.anginjitu.asia" target="_blank" rel="noopener noreferrer" style={{ color: 'blue' }}>🌐 AnginJitu 2</a></li>
-            <li><a href="https://3.anginjitu.asia" target="_blank" rel="noopener noreferrer" style={{ color: 'blue' }}>🌐 AnginJitu 3</a></li>
-            <li><a href="https://4.anginjitu.asia" target="_blank" rel="noopener noreferrer" style={{ color: 'blue' }}>🌐 AnginJitu 4</a></li>
-            <li><a href="https://5.anginjitu.asia" target="_blank" rel="noopener noreferrer" style={{ color: 'blue' }}>🌐 AnginJitu 5</a></li>
-            <li><a href="https://6.anginjitu.asia" target="_blank" rel="noopener noreferrer" style={{ color: 'blue' }}>🌐 AnginJitu 6</a></li>
-            <li><a href="https://7.anginjitu.asia" target="_blank" rel="noopener noreferrer" style={{ color: 'blue' }}>🌐 AnginJitu 7</a></li>
-            <li><a href="https://8.anginjitu.asia" target="_blank" rel="noopener noreferrer" style={{ color: 'blue' }}>🌐 AnginJitu 8</a></li>
-            <li><a href="https://9.anginjitu.asia" target="_blank" rel="noopener noreferrer" style={{ color: 'blue' }}>🌐 AnginJitu 9</a></li>
-            <li><a href="https://10.anginjitu.asia" target="_blank" rel="noopener noreferrer" style={{ color: 'blue' }}>🌐 AnginJitu 10</a></li>
-            <li><a href="https://anginjitu.online" target="_blank" rel="noopener noreferrer" style={{ color: 'blue' }}>🌐 AnginJitu Online</a></li>
-          </ul>
-
-          Dengan semua keuntungan yang ditawarkan, tidak ada alasan lagi untuk tidak bergabung dengan AnginTogel. Jadilah bagian dari komunitas pemain togel online yang menikmati pengalaman bermain terbaik dan kesempatan menang yang lebih besar.
-
-          AnginTogel adalah pilihan tepat untuk Anda yang mencari situs togel online terpercaya dan berkualitas. Segera daftar dan rasakan semua keuntungannya sekarang juga!
-        </p>
       </div>
+      <div className="relative">
+        <Image
+          src="/top.svg"
+          alt="angintogel Top"
+          width={1920}
+          height={1080}
+          style={{ objectFit: 'cover' }}
+          priority
+        />
+      </div>
+
+
+      {/*  */}
+
+      {/* DIV artikel angintogel */}
+      <div className="flex flex-col items-center justify-center w-full max-w-5xl p-8 text-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:bg-none">
+        <h1 className="text-3xl font-semibold">ANGINTOGEL</h1>
+        <p className="max-w-3xl m-0 text-sm opacity-50">
+          ANGINTOGEL adalah situs slot dan togel online terbaik di Indonesia.
+        </p>
+        <p className="m-0 text-sm opacity-50">
+          ANGINTOGEL menyediakan berbagai permainan slot dan togel online yang bisa Anda mainkan dengan nyaman dan aman.
+        </p>
+
+        <h2 className="mt-8 text-2xl font-semibold">Keuntungan Bermain di ANGINTOGEL</h2>
+
+
+        <h3>1. Keamanan dan Privasi Terjamin</h3>
+        <p>AnginTogel memastikan setiap data pribadi dan transaksi pemain terjaga dengan aman. Dengan sistem keamanan terbaik, Anda tidak perlu khawatir tentang kebocoran data atau penipuan. AnginTogel menggunakan enkripsi canggih untuk melindungi semua informasi pengguna.</p>
+
+        <h3>2. Bonus dan Promosi Menarik</h3>
+        <p>Di AnginTogel, Anda bisa menikmati berbagai bonus dan promosi menarik yang bisa meningkatkan peluang kemenangan Anda. Mulai dari bonus deposit, cashback, hingga promo harian yang selalu diperbarui. Jangan lewatkan kesempatan untuk mendapatkan keuntungan lebih dari setiap permainan Anda.</p>
+
+        <h3>3. Transaksi Cepat dan Mudah</h3>
+        <p>AnginTogel menyediakan berbagai metode transaksi yang cepat dan mudah, baik untuk deposit maupun penarikan. Anda bisa menggunakan transfer bank, e-wallet, dan metode lainnya yang sesuai dengan kebutuhan Anda. Proses transaksi yang cepat membuat pengalaman bermain Anda semakin nyaman.</p>
+
+        <h3>4. Layanan Pelanggan 24/7</h3>
+        <p>Tim layanan pelanggan AnginTogel siap membantu Anda kapan saja. Dengan layanan 24 jam sehari, 7 hari seminggu, Anda bisa mendapatkan bantuan atau informasi yang Anda butuhkan dengan cepat. Hubungi kami melalui live chat atau kontak lainnya yang tersedia di website.</p>
+
+        <h3>5. Permainan Beragam dan Fair Play</h3>
+        <p>AnginTogel menawarkan berbagai jenis permainan togel yang bisa Anda pilih sesuai dengan keinginan. Semua permainan dijamin fair play, sehingga Anda bisa bermain dengan tenang dan fokus pada strategi kemenangan Anda.</p>
+
+        <h3>6. Akses Mudah dari Berbagai Perangkat</h3>
+        <p>Anda bisa mengakses AnginTogel dari berbagai perangkat, baik komputer, tablet, maupun smartphone. Website ini didesain responsif sehingga Anda bisa bermain dengan nyaman di mana saja dan kapan saja.</p>
+
+        Untuk informasi lebih lanjut dan menikmati semua keuntungan tersebut, kunjungi beberapa link berikut:
+        <ul>
+          <li><a href="https://1.anginjitu.asia" target="_blank" rel="noopener noreferrer" style={{ color: 'blue' }}>🌐 AnginJitu 1</a></li>
+          <li><a href="https://2.anginjitu.asia" target="_blank" rel="noopener noreferrer" style={{ color: 'blue' }}>🌐 AnginJitu 2</a></li>
+          <li><a href="https://3.anginjitu.asia" target="_blank" rel="noopener noreferrer" style={{ color: 'blue' }}>🌐 AnginJitu 3</a></li>
+          <li><a href="https://4.anginjitu.asia" target="_blank" rel="noopener noreferrer" style={{ color: 'blue' }}>🌐 AnginJitu 4</a></li>
+          <li><a href="https://5.anginjitu.asia" target="_blank" rel="noopener noreferrer" style={{ color: 'blue' }}>🌐 AnginJitu 5</a></li>
+          <li><a href="https://6.anginjitu.asia" target="_blank" rel="noopener noreferrer" style={{ color: 'blue' }}>🌐 AnginJitu 6</a></li>
+          <li><a href="https://7.anginjitu.asia" target="_blank" rel="noopener noreferrer" style={{ color: 'blue' }}>🌐 AnginJitu 7</a></li>
+          <li><a href="https://8.anginjitu.asia" target="_blank" rel="noopener noreferrer" style={{ color: 'blue' }}>🌐 AnginJitu 8</a></li>
+          <li><a href="https://9.anginjitu.asia" target="_blank" rel="noopener noreferrer" style={{ color: 'blue' }}>🌐 AnginJitu 9</a></li>
+          <li><a href="https://10.anginjitu.asia" target="_blank" rel="noopener noreferrer" style={{ color: 'blue' }}>🌐 AnginJitu 10</a></li>
+          <li><a href="https://anginjitu.online" target="_blank" rel="noopener noreferrer" style={{ color: 'blue' }}>🌐 AnginJitu Online</a></li>
+        </ul>
+
+        Dengan semua keuntungan yang ditawarkan, tidak ada alasan lagi untuk tidak bergabung dengan AnginTogel. Jadilah bagian dari komunitas pemain togel online yang menikmati pengalaman bermain terbaik dan kesempatan menang yang lebih besar.
+
+        AnginTogel adalah pilihan tepat untuk Anda yang mencari situs togel online terpercaya dan berkualitas. Segera daftar dan rasakan semua keuntungannya sekarang juga!
+      </div>
+
+      <footer className="flex items-center justify-center w-full h-24 bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:bg-none">
+        <p className="text-xs opacity-50">
+          &copy; 2024
+          <a href="https://anginjitu.asia" target="_blank" rel="noopener noreferrer">
+            &copy; ANGINTOGEL
+          </a>
+          . All rights reserved.
+        </p>
+      </footer>
     </main>
   );
 }
