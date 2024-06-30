@@ -8,11 +8,7 @@ export default function robots(): MetadataRoute.Robots {
         allow: ['/'],
         disallow: '/',
       },
-      {
-        userAgent: ['Applebot', 'Bingbot'],
-        disallow: ['/'],
-      },
     ],
-    sitemap: 'https://anginjitu.asia/sitemap.xml',
+    sitemap: 'https://5.anginjitu.asia/sitemap.xml',
   }
 }

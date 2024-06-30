@@ -25,7 +25,7 @@ export default function Home() {
           ANGINTOGEL by
           <a
             className="ml-1 underline"
-            href="https://anginjitu.asia"
+            href="https://5.anginjitu.asia"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -35,7 +35,7 @@ export default function Home() {
         <div className="fixed bottom-0 left-0 flex h-48 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:size-auto lg:bg-none">
           <a
             className="pointer-events-none flex place-items-center gap-2 p-8 lg:pointer-events-auto lg:p-0"
-            href="https://anginjitu.asia"
+            href="https://5.anginjitu.asia"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -59,6 +59,7 @@ export default function Home() {
           alt="angintogel Logo"
           width={935}
           height={224}
+          priority
         />
       </div>
 
@@ -161,10 +162,10 @@ export default function Home() {
 
         Untuk informasi lebih lanjut dan menikmati semua keuntungan tersebut, kunjungi beberapa link berikut:
         <ul>
-          <li><a href="https://1.anginjitu.asia" target="_blank" rel="noopener noreferrer" style={{ color: 'blue' }}>🌐 AnginJitu 1</a></li>
-          <li><a href="https://2.anginjitu.asia" target="_blank" rel="noopener noreferrer" style={{ color: 'blue' }}>🌐 AnginJitu 2</a></li>
-          <li><a href="https://3.anginjitu.asia" target="_blank" rel="noopener noreferrer" style={{ color: 'blue' }}>🌐 AnginJitu 3</a></li>
-          <li><a href="https://4.anginjitu.asia" target="_blank" rel="noopener noreferrer" style={{ color: 'blue' }}>🌐 AnginJitu 4</a></li>
+          <li><a href="https://5.anginjitu.asia" target="_blank" rel="noopener noreferrer" style={{ color: 'blue' }}>🌐 AnginJitu 1</a></li>
+          <li><a href="https://5.anginjitu.asia" target="_blank" rel="noopener noreferrer" style={{ color: 'blue' }}>🌐 AnginJitu 2</a></li>
+          <li><a href="https://5.anginjitu.asia" target="_blank" rel="noopener noreferrer" style={{ color: 'blue' }}>🌐 AnginJitu 3</a></li>
+          <li><a href="https://5.anginjitu.asia" target="_blank" rel="noopener noreferrer" style={{ color: 'blue' }}>🌐 AnginJitu 4</a></li>
           <li><a href="https://5.anginjitu.asia" target="_blank" rel="noopener noreferrer" style={{ color: 'blue' }}>🌐 AnginJitu 5</a></li>
           <li><a href="https://6.anginjitu.asia" target="_blank" rel="noopener noreferrer" style={{ color: 'blue' }}>🌐 AnginJitu 6</a></li>
           <li><a href="https://7.anginjitu.asia" target="_blank" rel="noopener noreferrer" style={{ color: 'blue' }}>🌐 AnginJitu 7</a></li>
@@ -182,7 +183,7 @@ export default function Home() {
       <footer className="flex items-center justify-center w-full h-24 bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:bg-none">
         <p className="text-xs opacity-50">
           &copy; 2024
-          <a href="https://anginjitu.asia" target="_blank" rel="noopener noreferrer">
+          <a href="https://5.anginjitu.asia" target="_blank" rel="noopener noreferrer">
             &copy; ANGINTOGEL
           </a>
           . All rights reserved.

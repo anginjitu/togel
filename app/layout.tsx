@@ -16,13 +16,13 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "id_ID",
-    url: "https://anginjitu.asia",
+    url: "https://5.anginjitu.asia",
     siteName: "ANGINTOGEL",
     title: "ANGINTOGEL | Situs Slot dan Togel Online Terbaik",
     description: "ANGINTOGEL adalah situs slot dan togel online terbaik di Indonesia",
     images: [
       {
-        url: "https://anginjitu.asia/image.jpg",
+        url: "https://5.anginjitu.asia/image.jpg",
         width: 800,
         height: 600,
         alt: "ANGINTOGEL | Situs Slot dan Togel Online Terbaik",
@@ -48,24 +48,24 @@ export const metadata: Metadata = {
   verification: {
     google: "GPajvd6niR-HhL83HaQtN0ESDMJp9VkyRO25tjy7C5Y",
   },
-  metadataBase: new URL("https://anginjitu.asia"),
+  metadataBase: new URL("https://5.anginjitu.asia"),
   alternates: {
-    canonical: "https://anginjitu.asia",
+    canonical: "https://5.anginjitu.asia",
     media: {
-      android: "https://anginjitu.asia",
-      apple: "https://anginjitu.asia",
-      windows: "https://anginjitu.asia",
+      android: "https://5.anginjitu.asia",
+      apple: "https://5.anginjitu.asia",
+      windows: "https://5.anginjitu.asia",
     }
   },
   appLinks: {
     ios:{
-      url: "https://anginjitu.asia",
+      url: "https://5.anginjitu.asia",
     },
     web:{
-      url: "https://anginjitu.asia",
+      url: "https://5.anginjitu.asia",
     },
     windows:{
-      url: "https://anginjitu.asia",
+      url: "https://5.anginjitu.asia",
     }
   },
 };
@@ -79,7 +79,7 @@ export default function RootLayout({
     <html lang="en">
       <head>
         {/* canonical */}
-        <link rel="canonical" href="https://anginjitu.asia" />
+        <link rel="canonical" href="https://5.anginjitu.asia" />
         {/* favicon */}
         <link rel="icon" href="/favicon.ico" />
       </head>
