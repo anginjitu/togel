@@ -63,23 +63,8 @@ export default function Home() {
       </div>
 
       <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
-        {/* button ke halaman masuk.ts */}
-        <button className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30">
-          <h2 className="mb-3 text-2xl font-semibold">
-            Masuk{" "}
-            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-              -&gt;
-            </span>
-          </h2>
-          <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            Masuk ke website kami untuk mulai bermain.
-          </p>
-        </button>
-
-
-
-        {/* <a
-          href="https://angin303.xyz/"
+        <a
+          href="https://angin138.biz/"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           target="_blank"
           rel="noopener noreferrer"
@@ -93,10 +78,10 @@ export default function Home() {
           <p className="m-0 max-w-[30ch] text-sm opacity-50">
             Masuk ke website kami untuk mulai bermain.
           </p>
-        </a> */}
+        </a>
 
         <a
-          href="https://angin303.xyz/register"
+          href="https://angin138.biz/register"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           target="_blank"
           rel="noopener noreferrer"
@@ -186,7 +171,7 @@ export default function Home() {
           <li><a href="https://8.anginjitu.asia" target="_blank" rel="noopener noreferrer" style={{ color: 'blue' }}>🌐 AnginJitu 8</a></li>
           <li><a href="https://9.anginjitu.asia" target="_blank" rel="noopener noreferrer" style={{ color: 'blue' }}>🌐 AnginJitu 9</a></li>
           <li><a href="https://10.anginjitu.asia" target="_blank" rel="noopener noreferrer" style={{ color: 'blue' }}>🌐 AnginJitu 10</a></li>
-          <li><a href="https://anginjitu.online" target="_blank" rel="noopener noreferrer" style={{ color: 'blue' }}>🌐 AnginJitu Online</a></li>
+          <li><a href="https://blog.anginjitu.asia" target="_blank" rel="noopener noreferrer" style={{ color: 'blue' }}>🌐 Blog AnginJitu</a></li>
         </ul>
 
         Dengan semua keuntungan yang ditawarkan, tidak ada alasan lagi untuk tidak bergabung dengan AnginTogel. Jadilah bagian dari komunitas pemain togel online yang menikmati pengalaman bermain terbaik dan kesempatan menang yang lebih besar.
